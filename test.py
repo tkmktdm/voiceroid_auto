@@ -82,7 +82,7 @@ static.pack()
 
 comboExample = ttk.Combobox(root, 
                             values=["-",
-                            "紲星あかり", "結月ゆかり", "琴葉 葵", "琴葉 茜",
+                            "紲星あかり", "結月ゆかり", "琴葉 葵", "琴葉 茜", "東北ずんこ", "東北きりたん",
                             ],
 
                             postcommand=change)
